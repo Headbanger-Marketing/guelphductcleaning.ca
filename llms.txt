@@ -1,2 +1,25 @@
 # Guelph Duct Cleaning
-HVAC services in Ontario.
+
+> Guelph Duct Cleaning is a local HVAC company serving Guelph, Wellington, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 554-4288  |  Email: contact@guelphductcleaning.ca  |  Website: https://guelphductcleaning.ca
+
+## Key pages
+
+- [Home](https://guelphductcleaning.ca/): Guelph Duct Cleaning homepage with service overview and FAQ
+- [About](https://guelphductcleaning.ca/about/): About the company and service area
+- [Contact](https://guelphductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://guelphductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Guelph, Ontario
+- [Dryer Vent Cleaning](https://guelphductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Guelph, Ontario
+- [Furnace & AC Cleaning](https://guelphductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Guelph, Ontario
+- [HRV & Ventilation Cleaning](https://guelphductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Guelph, Ontario
+- [Duct Sanitizing & Deodorizing](https://guelphductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Guelph, Ontario
+- [Duct Sealing & Repair](https://guelphductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Guelph, Ontario
+- [Commercial Duct Cleaning](https://guelphductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Guelph, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Guelph are answered on the homepage.
